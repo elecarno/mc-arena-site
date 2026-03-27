@@ -380,5 +380,29 @@
                 "Sw": 1
             }
         }
+    },
+    "s2-17": {
+        "version": "a-2.3-dev",
+        "timestamp": "1774578792",
+        "length": "27",
+        "gamemode": "FFA-DM",
+        "map": "tower_paintball",
+        "moderator": "Jellycarno",
+        "players": {
+            "Jellycarno": {
+                "Gl": 4,
+                "Sw": 8,
+                "Sh": 12,
+                "Sp": 11,
+                "FA": 3
+            },
+            "Quiznq": {
+                "Sp": 8,
+                "FA": 8,
+                "Sw": 6,
+                "FK": 3,
+                "Ne": 3
+            }
+        }
     }
 }
